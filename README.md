@@ -7,6 +7,8 @@
   <div style="flex: 1;">
     <h2>Hi there 👋 I'm Koustav Moitra.</h2>
     <p>💫 <i> Passionate Software Developer and Product Manager. </i></p>
+  </div>
+</div>
 
 
 ##  Socials:
@@ -46,5 +48,4 @@ Certainly! Here are the badges arranged by group:
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-</div>
-</div>
+
