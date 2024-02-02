@@ -1,4 +1,4 @@
-<img align=" " width=100% src="https://www.canva.com/design/DAF6BdWAgjM/YKHcaB066NrmazFnlPp1Ww/edit?utm_content=DAF6BdWAgjM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
+<img align=" " width=100% src="[https://www.canva.com/design/DAF6BdWAgjM/YKHcaB066NrmazFnlPp1Ww/edit?utm_content=DAF6BdWAgjM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://dynamic.brandcrowd.com/asset/logo/e720875f-fadb-4da2-a3ff-eff667c4a5c6/logo-search-grid-1x?logoTemplateVersion=1&v=638360576603200000)">
 
 ### Hi there 👋 I'm Koustav Moitra.
 
