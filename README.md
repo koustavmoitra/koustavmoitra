@@ -1,4 +1,4 @@
-<img align=" " width=100% src="https://media.licdn.com/dms/image/C4D16AQEvlA3OQwholQ/profile-displaybackgroundimage-shrink_350_1400/0/1618554379881?e=1708560000&v=beta&t=n-vD-eGgwnShBVKQZoKKvfbvrR6RbA9QEnfgRtZLOt0">
+<img align=" " width=100% src=https://www.canva.com/design/DAF6BdWAgjM/YKHcaB066NrmazFnlPp1Ww/edit?utm_content=DAF6BdWAgjM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
 
 ### Hi there 👋 I'm Koustav Moitra.
 
