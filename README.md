@@ -1,9 +1,10 @@
-<img align="center" width="100%" height="500px" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
-
 ### Hi there 👋 I'm Koustav Moitra.
 
 # 💫 <i> Passionate Software Developer and Product Manager. </i>
 
+<p align="center">
+  <img width="80%" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
+</p>
 
 ##  Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/koustav-moitra-0182901ab/) 
