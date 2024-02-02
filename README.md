@@ -1,9 +1,11 @@
-<div style="display: flex;">
+<div>
+  <img align="left" width="50%" height="auto" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 
-  <!-- Left Column -->
-  <div style="flex: 1;">
-    <img align="center" width="100%" height="500px" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
-  </div>
+  <div align="left" style="margin-left: 20px;">
+  
+  ### Hi there 👋 I'm Koustav Moitra.
+
+  # 💫 <i> Passionate Software Developer and Product Manager. </i>
 
   <!-- Right Column -->
   <div style="flex: 1;">
