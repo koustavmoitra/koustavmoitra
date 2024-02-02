@@ -3,7 +3,7 @@
 # 💫 <i> Passionate Software Developer and Product Manager. </i>
 
 <p align="center">
-  <img width="80%" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
+  <img width="100%" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 </p>
 
 ##  Socials:
