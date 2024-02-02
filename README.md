@@ -1,4 +1,4 @@
-<img align=" " width=100% src=https://www.canva.com/design/DAF6BdWAgjM/YKHcaB066NrmazFnlPp1Ww/edit?utm_content=DAF6BdWAgjM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
+<img align=" " width=100% src="https://www.canva.com/design/DAF6BdWAgjM/YKHcaB066NrmazFnlPp1Ww/edit?utm_content=DAF6BdWAgjM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
 
 ### Hi there 👋 I'm Koustav Moitra.
 
