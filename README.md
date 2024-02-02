@@ -3,17 +3,10 @@
 
   <div align="left" style="margin-left: 20px;">
   
-  ### Hi there 👋 I'm Koustav Moitra.
-
-  # 💫 <i> Passionate Software Developer and Product Manager. </i>
-
   <!-- Right Column -->
   <div style="flex: 1;">
     <h2>Hi there 👋 I'm Koustav Moitra.</h2>
     <p>💫 <i> Passionate Software Developer and Product Manager. </i></p>
-
-
-# 💫 <i> Passionate Software Developer and Product Manager. </i>
 
 
 ##  Socials:
