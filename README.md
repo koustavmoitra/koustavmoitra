@@ -1,4 +1,4 @@
-<img align="center" width=100% src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
+<img align="center" width=100% height=50% src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 
 ### Hi there 👋 I'm Koustav Moitra.
 
