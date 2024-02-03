@@ -33,7 +33,8 @@ Certainly! Here are the badges arranged by group:
  ![Whimsical](https://img.shields.io/badge/Whimsical-%23827DFF.svg?style=for-the-badge&logo=whimsical&logoColor=white) ![Lucidchart](https://img.shields.io/badge/Lucidchart-%231767E5.svg?style=for-the-badge&logo=lucidchart&logoColor=white)
 
 ### Miscellaneous:
-![ChatGPT](https://img.shields.io/badge/ChatGPT-%234ea94b.svg?style=for-the-badge&logo=openai&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-%234ea94b.svg?style=for-the-badge&logo=openai&logoColor=white) ![Discord](https://img.shields.io/badge/Discord-%232c2f33.svg?style=for-the-badge&logo=discord&logoColor=white)
+
 
 ### ✍️ Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
