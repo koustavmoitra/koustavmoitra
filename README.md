@@ -1,4 +1,4 @@
-<h1 align="center">  Hi there 👋 I'm Koustav Moitra. </h1>
+<h1 align="center">  Hi 👋 I'm Koustav Moitra. </h1>
 
  <h2 align="center">💫 <i> I am passionate about software development, product management, and design </i> </h2>
 
@@ -12,7 +12,7 @@
     <a href='https://api.whatsapp.com/send?phone=918917580392'><img src='https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white' /></a>
     <a href='mailto:koustavmoitra711@gmail.com'><img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' /></a>
     <a href='https://www.linkedin.com/in/koustav-moitra/'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' /></a> 
-    <a href='https://https://koustav-moitra.site/'> <img src='https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=Google-Chrome&logoColor=white' /> </a>
+    <a href='https://koustav-moitra.site/'> <img src='https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=Google-Chrome&logoColor=white' /> </a>
 
   
  <h2 align="center"> 💻 TECH STACK : </h2>
